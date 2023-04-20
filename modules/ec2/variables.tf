@@ -6,5 +6,4 @@ variable "region" {}
 variable "vpc_name" {}
 variable "security_group" {}
 variable "public-subnets" {}
-variable "iam_instance_profile" {}
 
